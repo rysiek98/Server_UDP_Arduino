@@ -1,7 +1,7 @@
 # Server_UDP_Arduino
 
 [PL]\
-Arduino UDP serwer napisany w ramach zadania na przedmiocie akademickim OBIR. Serwer działa na symulatorze EBSimUnoEth i Arduino Uno.
+Serwer UDP na Arduino, napisany w ramach zadania na przedmiocie akademickim OBIR. Serwer działa na symulatorze EBSimUnoEth i Arduino Uno.
 Serwer oczekuje na żądania: NIECHE jakiś numer (max 8 cyfr), NIECHF jakiś numer (max 8 cyfr), * (serwer wykonuje opercaje NIECHE * NIECHF),
 DAJ serwer wysyła wynik operacji mnożenia. Pracuje na porcie 2393.
 
